@@ -49,5 +49,5 @@ scoop install ffmpeg
 ```
 ## Startup Voice Assistant
 ```bash
-python main.py
+python Vyomonaut_v5.py
 ```
